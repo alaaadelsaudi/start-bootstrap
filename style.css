@@ -1,0 +1,137 @@
+*{margin:0;padding: 0;}
+.home{background-image:linear-gradient(rgba(0, 0, 0, 0.452),rgba(0, 0, 0, 0.589)) ,url(images/header-bg.jpg);
+    height:100vh ;background-size: cover;}
+    nav{position: fixed;display: flex;background-color: rgba(29, 28, 28, 0.507);width: 100vw;top: 0;}
+nav img{width:200px;float: left;
+    padding: 20px;}
+ .categores ul{float: right;margin-left:500px ;margin-top: 10px;}
+ li{float: left;list-style: none;
+    padding: 10px;
+     margin-right: 15px;} 
+nav a{text-decoration: none;
+    font-size: larger;
+    color: white;}
+nav a:hover{color: #ffc107;}
+.heder{text-align: center;
+    padding: 200px;}
+.heder h2{color: white;
+    font-size: 30px;margin: 50px;}
+.clear
+{clear: both;}
+.heder h1{color: white;
+    font-size: 50px;margin: 50px;}
+.heder button{width: 150px;
+    height: 50px;
+    font-weight: 800;
+    background-color:#ffc107;
+    color: white;}
+#Service,#Portifolio,#About,#Team {text-align: center;margin-top: 100px;margin: 10px;}
+#Service h2,#Portifolio h2,#About h2,#Team h2,#Contact h2{font-size: 40px;
+    font-weight: 900;
+    margin-bottom: 0;} 
+.icon{display: inline-block;
+    margin: 70px;}
+#Service p,#About p,#Team p{color: rgb(156, 152, 152);}
+.icon i{font-size: 75px;
+    background-color: #ffc107;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    padding: 25px;
+    border: solid 10px rgb(209, 156, 56);}
+.icon h3{font-weight: 600;
+    font-size: 30px;margin: 10px;}
+.icon p{width:200px ;}
+
+#Portifolio img{width: 350px;
+    height: 300px;}
+.photo{border: solid 2px rgba(95, 92, 92, 0.726);
+    width:350px;
+    display: inline-block;
+    margin: 40px;}
+.photo p{color: rgb(160, 156, 156);}
+#About img{border: solid 10px #ffc10794;}
+.section4 {width: 600px;
+    margin-left: 200px;}
+.photo4 {width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-top: 100px;
+    display:inline-block;}
+.part4{width: 350px;
+    margin-top: 100px;
+    float: left;}
+.section5 {width: 600px;
+    margin-left: 600px;}
+.photo5 {width: 150px;
+    height: 150px;
+    border-radius: 50%; 
+    margin-top: 100px;
+    display:inline-block;}
+.part5{width: 350px;
+    margin-top: 50px;
+    float: right;}
+.part{margin-top: 100px;
+    background-color: #ffc107;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-left: 600px;
+    border: solid 7px rgba(197, 189, 189, 0.76);
+margin-bottom: 50px;}
+.part h3{padding-top: 40px;
+    color: white;}
+.person{display: inline-block;
+    margin: 100px;}
+.person img{width: 200px;
+    height: 200px;margin: 10px;
+    border-radius: 50%;
+    border: solid 7px rgb(189, 179, 179);}
+.person i{font-size: x-large;margin: 10px;}
+.text{color: rgba(131, 126, 126, 0.911);
+    margin: 20px;text-align: center;margin-bottom: 50px;}
+     .images img{width: 230px;
+        margin-left: 80px;;
+        margin-top: 20px;}
+     #Contact{background-image: url(images/map-image.png);
+        background-color: black;
+        height: 100%;
+        margin-top: 100px;}
+     .title{color: white;
+        padding:50px;
+        text-align: center;}
+     .contener{text-align: center;
+        margin-top: 50px;
+        display: flex;}
+     .info{align-items: center;
+        margin-left: 100px;
+        width: 70%;}
+     input{display: block;
+        width:80%;
+        height: 70px;
+        margin-top: 10px;}
+     .textarea{width: 70%;}
+     textarea{width: 75%;
+        margin-right: 100px;
+        height: 95%;
+        top: 10px;}
+     #Contact button{margin-top: 50px;
+        margin-left: 550px;
+        height: 50px;width: 200px;
+        background-color: #ffc107d3;
+        border: solid rgb(145, 142, 142);
+        font-size: larger;
+        font-weight: 800;
+    margin-bottom: 20px;
+color: white;}
+    .copy{margin: 50px;display: flex;;}
+    .copy p{width: 25%;margin-top: 20px;}
+    .logo2{margin-top: 20px;
+        margin-left: 250px;
+        width: 30%;
+        font-size: x-large;}
+    .link{margin-top: 20px;}
+    .link a{margin: 20px;
+        text-decoration: none;
+        color: black;}
+    .link a:hover{color: #ffc107;}
